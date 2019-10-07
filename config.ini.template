@@ -1,0 +1,6 @@
+[smtp_settings]
+smtp_server = "smtp_server"
+port = port_number
+sender = "sender"
+password = "password"
+receiver = "receiver"
